@@ -1,0 +1,1 @@
+export const BOARD_CLICKED = "BOARD_CLICKED";

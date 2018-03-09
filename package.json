@@ -1,0 +1,25 @@
+{
+  "name": "react-tutorial-sfc-and-redux",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-tutorial-sfc-and-redux",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "redux": "3.7.2",
+    "reselect": "3.0.1",
+    "recompose": "0.26.0",
+    "redux-undo": "1.0.0-beta9-9-7",
+    "react-redux": "5.0.7",
+    "redux-logger": "3.0.6",
+    "redux-actions": "2.3.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
